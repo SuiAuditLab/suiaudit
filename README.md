@@ -64,6 +64,9 @@ Although Sui's Move language is fast and secure, ecosystem partners still occasi
 - Jan. 16, 2026 - Pure1 model - 5-fold cross validation, and better accuracy on 6+1 main classes.
 - Jan. 21, 2026 - Pure1 model - training and get more row data. 
 - Jan. 28, 2026 - Pure1 model - Add 25 row data.
+- Feb. 08, 2026 - submit paper(SuiAudit Pure1) to TechRxiv.
+- Feb. 18, 2026 - resubmit paper (SuiAudit Pure1) to TechRxiv. (due to other reason - author's profile seeting become public).
+- Feb. 19, 2026 - Move this repo to Org(SuiAuditLab/suiaudit) from Personal(k66inthesky/suiaudit).
 ---
 
 ## Features
