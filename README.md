@@ -24,7 +24,7 @@ Visit our website: `https://suiaudit.wal.app/`
 
 Although Sui's Move language is fast and secure, ecosystem partners still occasionally encounter security incidents. As a fast-growing public blockchain, a strong partner like SuiAudit can help projects build a safer Sui ecosystem!
 
-## Meeting Notes
+## Meeting Notes & Milestone
 
 - Sep. 07, 2025 - Decide key functions(user report, parse string, sign check, AI smart contract check, security badge) and daily tasks in this week.
 - Sep. 08, 2025 - Decide Team collaboration rules, ask for data authorization, and study how to implement sui sign check.
