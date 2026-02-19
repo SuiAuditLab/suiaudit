@@ -100,15 +100,17 @@ Before you raise an issue, kindly do:
 
 ## Core Team
 
-👨‍💻 [k66](https://github.com/k66inthesky) - Backend, ML, CI/CD, System Design, Sui-Move labeling
+👨‍💻 [k66](https://github.com/k66inthesky) - Sui-Move labeling, ML, System Design, Full-Stack, DevOps 
 
-👨‍💻 [Emily](https://github.com/lienweb) - Frontend, UI/UX, System Design, Sui-Move labeling
+👨‍💻 [Emily](https://github.com/lienweb) - Frontend, UI/UX, System Design
+
+👨‍💻 [Brian](https://github.com/brianhuang813) - ML, Sui-Move labeling
 
 ## [Pending]How to join as Member? (Below we referred you as `candidate`)
 
 ### Recruitment Process & Interview Dates:
 
-> In December 2025, please contact: k66inthesky@gmail.com
+> Please email to `k66inthesky@gmail.com` with a subject: `[SuiAudit] Volunteer Application` 
 
 
 ## License
