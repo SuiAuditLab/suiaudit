@@ -2,15 +2,19 @@
   <img src="extension/icons/logo128.png" alt="SuiAudit Logo" width="64" height="64">
 </div>
 
-# SuiAudit
+<div align="center">
 
-🛡️ AI-Powered Sui-Move Code Audit Solution
+  # SuiAudit
+  
+  🛡️ AI-Powered Sui-Move Code Audit Solution
+  
+  🎬 [English Demo Video](https://youtu.be/4-jDcgFBjss)
+  
+  🎬 [Chinese Demo & System Architecture Detail Video](https://youtu.be/K3_QJftZTKo)
+  
+  [Visit our website: suiaudit.wal.app](https://suiaudit.wal.app/)
 
-🎬English Demo Video: https://youtu.be/4-jDcgFBjss
-
-🎬Chinese Demo & System Architecture Detail Video: https://youtu.be/K3_QJftZTKo
-
-Visit our website: `https://suiaudit.wal.app/`
+</div>
 
 ---
 
