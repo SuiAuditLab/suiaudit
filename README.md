@@ -110,7 +110,7 @@ Before you raise an issue, kindly do:
 
 ### Recruitment Process & Interview Dates:
 
-> Please email to `k66inthesky@gmail.com` with a subject: `[SuiAudit] Volunteer Application` 
+> Please email to `suiaudit.ai@gmail.com` with a subject: `[SuiAudit] Volunteer Application` 
 
 
 ## License
