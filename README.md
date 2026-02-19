@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="extension/icons/logo16.png" alt="SuiAudit Logo" width="64" height="64">
+  <img src="extension/icons/logo128.png" alt="SuiAudit Logo" width="64" height="64">
 </div>
 
 # SuiAudit
@@ -106,16 +106,20 @@ Before you raise an issue, kindly do:
 
 👨‍💻 [Brian](https://github.com/brianhuang813) - ML, Sui-Move labeling
 
-## [Pending]How to join as Volunteer?
+## Colab or Grant?
 
-### Recruitment Process & Interview Dates:
+> Please email to `suiaudit.ai@gmail.com` with a subject: `[SuiAudit] Colab or Grant` 
 
-> Please email to `suiaudit.ai@gmail.com` with a subject: `[SuiAudit] Volunteer Application` 
+### Want to join SuiAudit Lab? 
+> If you are insterested in these 2 positions: Ecosystem & growth leader, Security Researcher(Sui-Move).
+
+> Please email to `suiaudit.ai@gmail.com` with a subject: `[SuiAudit] Member/Volunteer Application` 
 
 
 ## License
 
 Apache License 2.0, see [LICENSE](./LICENSE).
+
 
 ---
 
