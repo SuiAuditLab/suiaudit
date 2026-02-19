@@ -106,7 +106,7 @@ Before you raise an issue, kindly do:
 
 👨‍💻 [Brian](https://github.com/brianhuang813) - ML, Sui-Move labeling
 
-## [Pending]How to join as Member? (Below we referred you as `candidate`)
+## [Pending]How to join as Volunteer?
 
 ### Recruitment Process & Interview Dates:
 
