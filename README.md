@@ -18,6 +18,9 @@
 
 ---
 
+## 📄 Paper
+- [Can Small Models Beat Frontier LLMs? Introducing SuiAudit Pure1: Specialized Auditing via Extreme Low-Resource Fine-Tuning](https://doi.org/10.36227/techrxiv.177204934.48017152/v1)
+
 ## 🏆 Awards
 
 - 🥈 2025 Sui Hackathon Mandarin - 2nd Place([HOH X](https://x.com/0xHOH/status/1983472825689358499) | [Linkedin post](https://www.linkedin.com/posts/lanacchen_hoh%E6%B0%B4%E5%88%86%E5%AD%90-0xhoh-on-x-activity-7389695919820169216-RHr3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB--lDIBTulv_RZ2aI2p2-GGswKirCBsZ6c))
@@ -71,6 +74,7 @@ Although Sui's Move language is fast and secure, ecosystem partners still occasi
 - Feb. 08, 2026 - submit paper(SuiAudit Pure1) to TechRxiv.
 - Feb. 18, 2026 - resubmit paper (SuiAudit Pure1) to TechRxiv. (due to other reason - author's profile seeting become public).
 - Feb. 19, 2026 - Move this repo to Org(SuiAuditLab/suiaudit) from Personal(k66inthesky/suiaudit).
+- Feb 26, 2026 - [paper](https://doi.org/10.36227/techrxiv.177204934.48017152/v1)(SuiAudit Pure1) get accepted at TechRxiv.
 ---
 
 ## Features
